@@ -1,0 +1,17 @@
+body{
+    background-image: url(https://media.viajando.travel/p/d4f2bef610a21fcdef9ce7ea9991fc0a/adjuntos/236/imagenes/000/045/0000045845/1200x675/smart/dubaijpg.jpg);
+    background-size:1920px ;
+}
+p{
+    font-size: 100px;
+    color:yellowgreen;
+    background-color: rgb(47, 0, 255);
+}
+h3{
+    font-size: 70px;
+    color: rgb(21, 255, 0);
+}
+h4{
+    font-size: 50px;
+    color: rgb(255, 0, 0);
+}
